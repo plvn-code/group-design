@@ -1,0 +1,1523 @@
+{
+"projects": {
+"panorama": [
+{
+"src": "/img/p/panorama/00.webp",
+"w": 1198,
+"h": 1193
+},
+{
+"src": "/img/p/panorama/01.webp",
+"w": 1145,
+"h": 1374
+},
+{
+"src": "/img/p/panorama/02.webp",
+"w": 1145,
+"h": 1374
+},
+{
+"src": "/img/p/panorama/03.webp",
+"w": 1312,
+"h": 1574
+},
+{
+"src": "/img/p/panorama/04.webp",
+"w": 1306,
+"h": 1300
+},
+{
+"src": "/img/p/panorama/05.webp",
+"w": 1144,
+"h": 1138
+},
+{
+"src": "/img/p/panorama/06.webp",
+"w": 1306,
+"h": 1300
+},
+{
+"src": "/img/p/panorama/07.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/panorama/08.webp",
+"w": 1145,
+"h": 1046
+},
+{
+"src": "/img/p/panorama/09.webp",
+"w": 1143,
+"h": 1044
+},
+{
+"src": "/img/p/panorama/10.webp",
+"w": 1152,
+"h": 1052
+},
+{
+"src": "/img/p/panorama/11.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/12.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/13.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/14.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/15.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/16.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/17.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/18.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/19.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/20.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/21.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/22.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/panorama/23.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/panorama/24.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/panorama/25.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/panorama/26.webp",
+"w": 1088,
+"h": 1456
+},
+{
+"src": "/img/p/panorama/27.webp",
+"w": 1088,
+"h": 1456
+}
+],
+"olyva": [
+{
+"src": "/img/p/olyva/00.webp",
+"w": 1312,
+"h": 1488
+},
+{
+"src": "/img/p/olyva/01.webp",
+"w": 1184,
+"h": 1344
+},
+{
+"src": "/img/p/olyva/02.webp",
+"w": 1184,
+"h": 1344
+},
+{
+"src": "/img/p/olyva/03.webp",
+"w": 1312,
+"h": 1488
+},
+{
+"src": "/img/p/olyva/04.webp",
+"w": 1184,
+"h": 1344
+},
+{
+"src": "/img/p/olyva/05.webp",
+"w": 1312,
+"h": 1488
+},
+{
+"src": "/img/p/olyva/06.webp",
+"w": 1312,
+"h": 1488
+},
+{
+"src": "/img/p/olyva/07.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/olyva/08.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/olyva/09.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/olyva/10.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/olyva/11.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/olyva/12.webp",
+"w": 1198,
+"h": 1095
+},
+{
+"src": "/img/p/olyva/13.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/olyva/14.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/olyva/15.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/olyva/16.webp",
+"w": 1152,
+"h": 1376
+},
+{
+"src": "/img/p/olyva/17.webp",
+"w": 672,
+"h": 816
+}
+],
+"bordo": [
+{
+"src": "/img/p/bordo/00.webp",
+"w": 1254,
+"h": 1507
+},
+{
+"src": "/img/p/bordo/01.webp",
+"w": 1144,
+"h": 1375
+},
+{
+"src": "/img/p/bordo/02.webp",
+"w": 1024,
+"h": 1231
+},
+{
+"src": "/img/p/bordo/03.webp",
+"w": 1145,
+"h": 1376
+},
+{
+"src": "/img/p/bordo/04.webp",
+"w": 1024,
+"h": 1231
+},
+{
+"src": "/img/p/bordo/05.webp",
+"w": 1088,
+"h": 1445
+},
+{
+"src": "/img/p/bordo/06.webp",
+"w": 1088,
+"h": 1445
+},
+{
+"src": "/img/p/bordo/07.webp",
+"w": 1088,
+"h": 1445
+},
+{
+"src": "/img/p/bordo/08.webp",
+"w": 1088,
+"h": 1445
+},
+{
+"src": "/img/p/bordo/09.webp",
+"w": 1088,
+"h": 1445
+},
+{
+"src": "/img/p/bordo/10.webp",
+"w": 1100,
+"h": 1430
+},
+{
+"src": "/img/p/bordo/11.webp",
+"w": 1100,
+"h": 1430
+},
+{
+"src": "/img/p/bordo/12.webp",
+"w": 1100,
+"h": 1430
+},
+{
+"src": "/img/p/bordo/13.webp",
+"w": 1122,
+"h": 1458
+},
+{
+"src": "/img/p/bordo/14.webp",
+"w": 1100,
+"h": 1430
+},
+{
+"src": "/img/p/bordo/15.webp",
+"w": 1122,
+"h": 1458
+},
+{
+"src": "/img/p/bordo/16.webp",
+"w": 1100,
+"h": 1430
+},
+{
+"src": "/img/p/bordo/17.webp",
+"w": 1086,
+"h": 1448
+},
+{
+"src": "/img/p/bordo/18.webp",
+"w": 1086,
+"h": 1448
+},
+{
+"src": "/img/p/bordo/19.webp",
+"w": 1086,
+"h": 1448
+},
+{
+"src": "/img/p/bordo/20.webp",
+"w": 1086,
+"h": 1448
+},
+{
+"src": "/img/p/bordo/21.webp",
+"w": 1086,
+"h": 1448
+}
+],
+"budynok-185": [
+{
+"src": "/img/p/budynok-185/00.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/01.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/02.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/03.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/04.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/05.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/06.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/07.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/08.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/09.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/10.webp",
+"w": 1440,
+"h": 1794
+},
+{
+"src": "/img/p/budynok-185/11.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/12.webp",
+"w": 1440,
+"h": 1798
+},
+{
+"src": "/img/p/budynok-185/13.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/14.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/15.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/16.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/17.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/18.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/19.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/20.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/21.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/22.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/23.webp",
+"w": 1440,
+"h": 1801
+},
+{
+"src": "/img/p/budynok-185/24.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/25.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/26.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/27.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/28.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/29.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/30.webp",
+"w": 1024,
+"h": 1365
+},
+{
+"src": "/img/p/budynok-185/31.webp",
+"w": 1440,
+"h": 1920
+},
+{
+"src": "/img/p/budynok-185/32.webp",
+"w": 1440,
+"h": 1920
+},
+{
+"src": "/img/p/budynok-185/33.webp",
+"w": 1440,
+"h": 1920
+},
+{
+"src": "/img/p/budynok-185/34.webp",
+"w": 1319,
+"h": 1643
+},
+{
+"src": "/img/p/budynok-185/35.webp",
+"w": 1440,
+"h": 1794
+},
+{
+"src": "/img/p/budynok-185/36.webp",
+"w": 1440,
+"h": 1794
+},
+{
+"src": "/img/p/budynok-185/37.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/38.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/39.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/40.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/41.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/budynok-185/42.webp",
+"w": 1440,
+"h": 1800
+}
+],
+"novi-petrivtsi": [
+{
+"src": "/img/p/novi-petrivtsi/00.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/01.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/02.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/03.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/04.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/05.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/06.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/07.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/08.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/09.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/10.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/11.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/12.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/13.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/14.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/15.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/16.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/17.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/18.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/19.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/20.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/21.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/22.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/23.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/24.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/25.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/26.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/27.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/28.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/29.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/30.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/31.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/32.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/33.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/34.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/35.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/36.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/37.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/38.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/39.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/novi-petrivtsi/40.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/41.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/novi-petrivtsi/42.webp",
+"w": 1440,
+"h": 1728
+}
+],
+"rodyna": [
+{
+"src": "/img/p/rodyna/00.webp",
+"w": 1290,
+"h": 2293
+},
+{
+"src": "/img/p/rodyna/01.webp",
+"w": 640,
+"h": 1136
+},
+{
+"src": "/img/p/rodyna/02.webp",
+"w": 1320,
+"h": 2346
+},
+{
+"src": "/img/p/rodyna/03.webp",
+"w": 1320,
+"h": 2346
+},
+{
+"src": "/img/p/rodyna/04.webp",
+"w": 1320,
+"h": 2346
+},
+{
+"src": "/img/p/rodyna/05.webp",
+"w": 640,
+"h": 1136
+},
+{
+"src": "/img/p/rodyna/06.webp",
+"w": 640,
+"h": 1136
+},
+{
+"src": "/img/p/rodyna/07.webp",
+"w": 640,
+"h": 1136
+},
+{
+"src": "/img/p/rodyna/08.webp",
+"w": 1320,
+"h": 2346
+},
+{
+"src": "/img/p/rodyna/09.webp",
+"w": 1320,
+"h": 2346
+},
+{
+"src": "/img/p/rodyna/10.webp",
+"w": 1320,
+"h": 2346
+},
+{
+"src": "/img/p/rodyna/11.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/rodyna/12.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/rodyna/13.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/rodyna/14.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/rodyna/15.webp",
+"w": 1198,
+"h": 1497
+}
+],
+"varshavskyi": [
+{
+"src": "/img/p/varshavskyi/00.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/01.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/02.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/03.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/04.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/05.webp",
+"w": 1440,
+"h": 1726
+},
+{
+"src": "/img/p/varshavskyi/06.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/07.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/08.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/09.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/10.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/11.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/12.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/13.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/14.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/15.webp",
+"w": 1440,
+"h": 1727
+},
+{
+"src": "/img/p/varshavskyi/16.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/17.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/18.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/19.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/20.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/21.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/22.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/23.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/24.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/25.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/26.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/varshavskyi/27.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/varshavskyi/28.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/varshavskyi/29.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/varshavskyi/30.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/31.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/32.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/33.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/34.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/35.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/36.webp",
+"w": 1198,
+"h": 1497
+},
+{
+"src": "/img/p/varshavskyi/37.webp",
+"w": 1440,
+"h": 1724
+},
+{
+"src": "/img/p/varshavskyi/38.webp",
+"w": 1440,
+"h": 1724
+}
+],
+"crystal-avenue": [
+{
+"src": "/img/p/crystal-avenue/00.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/01.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/02.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/03.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/04.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/05.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/06.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/07.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/08.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/09.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/10.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/11.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/12.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/13.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/14.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/15.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/16.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/17.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/18.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/19.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/20.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/21.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/22.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/23.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/crystal-avenue/24.webp",
+"w": 709,
+"h": 664
+}
+],
+"kavyarnya": [
+{
+"src": "/img/p/kavyarnya/00.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/01.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/02.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/03.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/04.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/05.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/06.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/07.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/08.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/09.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/10.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/11.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/12.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/13.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/14.webp",
+"w": 1440,
+"h": 1728
+},
+{
+"src": "/img/p/kavyarnya/15.webp",
+"w": 640,
+"h": 1136
+},
+{
+"src": "/img/p/kavyarnya/16.webp",
+"w": 640,
+"h": 1136
+},
+{
+"src": "/img/p/kavyarnya/17.webp",
+"w": 640,
+"h": 1136
+}
+],
+"ofis": [
+{
+"src": "/img/p/ofis/00.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/01.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/02.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/03.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/04.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/05.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/06.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/07.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/08.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/09.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/10.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/11.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/12.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/13.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/14.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/15.webp",
+"w": 1600,
+"h": 2000
+},
+{
+"src": "/img/p/ofis/16.webp",
+"w": 1536,
+"h": 2048
+},
+{
+"src": "/img/p/ofis/17.webp",
+"w": 1536,
+"h": 2048
+},
+{
+"src": "/img/p/ofis/18.webp",
+"w": 1122,
+"h": 1496
+},
+{
+"src": "/img/p/ofis/19.webp",
+"w": 1536,
+"h": 2048
+}
+],
+"zelena-kukhnya": [
+{
+"src": "/img/p/zelena-kukhnya/00.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/01.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/02.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/03.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/04.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/05.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/06.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/07.webp",
+"w": 1440,
+"h": 1799
+},
+{
+"src": "/img/p/zelena-kukhnya/08.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/09.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/10.webp",
+"w": 1440,
+"h": 1800
+},
+{
+"src": "/img/p/zelena-kukhnya/11.webp",
+"w": 886,
+"h": 1107
+},
+{
+"src": "/img/p/zelena-kukhnya/12.webp",
+"w": 886,
+"h": 1107
+},
+{
+"src": "/img/p/zelena-kukhnya/13.webp",
+"w": 1280,
+"h": 1600
+},
+{
+"src": "/img/p/zelena-kukhnya/14.webp",
+"w": 893,
+"h": 1116
+},
+{
+"src": "/img/p/zelena-kukhnya/15.webp",
+"w": 1108,
+"h": 1385
+},
+{
+"src": "/img/p/zelena-kukhnya/16.webp",
+"w": 1108,
+"h": 1385
+},
+{
+"src": "/img/p/zelena-kukhnya/17.webp",
+"w": 1108,
+"h": 1385
+},
+{
+"src": "/img/p/zelena-kukhnya/18.webp",
+"w": 1108,
+"h": 1385
+}
+]
+},
+"single": {
+"compare/bedroom-plan": {
+"src": "/img/compare/bedroom-plan.webp",
+"w": 1170,
+"h": 842
+},
+"compare/bedroom-result": {
+"src": "/img/compare/bedroom-result.webp",
+"w": 1170,
+"h": 807
+},
+"compare/living-plan": {
+"src": "/img/compare/living-plan.webp",
+"w": 1170,
+"h": 842
+},
+"compare/living-result": {
+"src": "/img/compare/living-result.webp",
+"w": 1170,
+"h": 807
+},
+"compare/hall-plan": {
+"src": "/img/compare/hall-plan.webp",
+"w": 1170,
+"h": 842
+},
+"compare/hall-result": {
+"src": "/img/compare/hall-result.webp",
+"w": 1170,
+"h": 807
+},
+"olena": {
+"src": "/img/olena.webp",
+"w": 1363,
+"h": 1817
+},
+"olena-2": {
+"src": "/img/olena-2.webp",
+"w": 1600,
+"h": 2133
+}
+}
+}
