@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Cormorant_Garamond, Inter_Tight } from "next/font/google";
+import { Geologica, JetBrains_Mono, Manrope } from "next/font/google";
 import "./globals.css";
 import { Effects } from "@/components/Effects";
 import { Footer } from "@/components/Footer";
@@ -8,18 +8,23 @@ import { IChat } from "@/components/Icons";
 import { single } from "@/lib/projects";
 import { site } from "@/lib/site";
 
-/** Inter Tight — light, tight grotesque for big headings and UI; Cormorant Garamond italic — accents in <em>. */
-const sans = Inter_Tight({
-  subsets: ["latin", "cyrillic", "cyrillic-ext"],
+/** Same type system as ALUABRI: Geologica (light display), Manrope (text/UI), JetBrains Mono (small uppercase labels). */
+const display = Geologica({
+  subsets: ["latin", "latin-ext", "cyrillic", "cyrillic-ext"],
   weight: ["200", "300", "400", "500"],
+  variable: "--display",
+  display: "swap",
+});
+const sans = Manrope({
+  subsets: ["latin", "latin-ext", "cyrillic", "cyrillic-ext"],
+  weight: ["400", "500", "600"],
   variable: "--sans",
   display: "swap",
 });
-const serif = Cormorant_Garamond({
-  subsets: ["latin", "cyrillic", "cyrillic-ext"],
-  weight: ["400", "500"],
-  style: ["italic"],
-  variable: "--serif",
+const mono = JetBrains_Mono({
+  subsets: ["latin", "cyrillic"],
+  weight: ["400"],
+  variable: "--mono",
   display: "swap",
 });
 
@@ -61,7 +66,7 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="uk" className={`${sans.variable} ${serif.variable}`} data-scroll-behavior="smooth">
+    <html lang="uk" className={`${display.variable} ${sans.variable} ${mono.variable}`} data-scroll-behavior="smooth">
       <body>
         <a className="skip" href="#main">
           Перейти до змісту

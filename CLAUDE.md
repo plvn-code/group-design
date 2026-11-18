@@ -22,7 +22,7 @@ open -a "Google Chrome" http://localhost:3021
 
 ## Стек
 
-Next.js 15 App Router · React 19 · TS strict · plain CSS (`src/app/globals.css`, токени в `:root`) · next/font: **Inter Tight** 200–500 (заголовки/UI) + **Cormorant Garamond** italic (`em` = бронзовий курсив). Без БД.
+Next.js 15 App Router · React 19 · TS strict · plain CSS (`src/app/globals.css`, токени в `:root`) · next/font — шрифти як у ALUABRI: **Geologica** 200–500 (заголовки, великий текст; `em` = той самий шрифт бронзою, без курсиву) + **Manrope** (текст, меню, кнопки без капсу) + **JetBrains Mono** (дрібні підписи капсом). Без БД.
 
 ## Структура
 
