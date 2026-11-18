@@ -7,6 +7,8 @@
 
 Спочатку читай `docs/STATUS.md`.
 
+GitHub: github.com/plvn-code/group-design (branch `main`) — після завершених задач commit + push. Vercel поки немає — спершу спитати користувача.
+
 ## Команди
 
 ```bash
